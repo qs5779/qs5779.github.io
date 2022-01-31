@@ -1,2 +1,7 @@
+title: quiensabe
+baseurl: ""
+url: ""
+# markdown: kramdown
 # With GitHub Pages Gem
 remote_theme: chrisrhymes/bulma-clean-theme
+# exclude: [vendor]
