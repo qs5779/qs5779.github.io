@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/jim5779
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.quiensabe.org
+  * I am jim5779 (https://keybase.io/jim5779) on keybase.
+  * I have a public key with fingerprint B3E4 4965 4DF8 7B27 94DF  669C 98A1 B46F FC1A 6B64
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201c4acfce47b24ce32d8679d53bcf8b94437752b8885bee3eb6b780831ef0ca830a",
+      "fingerprint": "b3e449654df87b2794df669c98a1b46ffc1a6b64",
+      "host": "keybase.io",
+      "key_id": "98a1b46ffc1a6b64",
+      "kid": "010195f6af7e757cfb67a4e0b326720002ecc962d50d26548019f1558a73369203f00a",
+      "uid": "c3c906199995e0bc7d257012200f1919",
+      "username": "jim5779"
+    },
+    "service": {
+      "hostname": "www.quiensabe.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1588968010,
+  "expire_in": 157680000,
+  "prev": "cc96ddc94c7f030f45e4eb1289293c18ab2368e6c81ac6d47329000ea0c7ba26",
+  "seqno": 53,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNzAnicbVJ7UFRVHGYRGCVfw9RCklNeCCEXuO/HGuIkGIJlxCQiAt177rm718V9
+7yICM1QmBjFN0FAjUor0AAdyZ9BllFRocQyS4VFTgkwP1KSBcEyJUKSzjP7X759z
+zu9833e+7zfHt2JJQKjmk+PtlgdrTLKmr+uoKyD/9Nn0EkyyyMWYvgQzwcUFFsrQ
+4SwwqTKmx3CCxAlAi0ABkOYkkgaQImWe5QSZoSSg8JJA0xTHMaTE8zwjQUhBiZU4
+HucpAio4EHkKFzEdpqhmA7Rb7arZiWQlCtK0wDK0rPBIlRPQhmUFIPAiIdGsogBC
+ZCWWRkSjxeFnIHOS6IAJqgX10KFg0d7/4B/7xgmBUVhR4SDHcECRWE6kIS5RJMuR
+OI6TEACBJWUGl0nkg0dwhWAYXuQoihVInFLwRd+uRTlAAQFnCQEVg0QAJ5MMh2aD
+lBRCIAQ/0AHtZnEfROi96j6G4wSsTIehplsF0D9Xf5BHgKKiogSbS4VmhyjBBIvd
+gPhWu8VpAZZCdG10Oq0OvZ/uLLYu4qFU8EipQFLNMpolYrih3aFazJieQEjgVP3S
+BMPzAovS4DoM7reqdlig+hEMh5qo/O9Atz8RSi/LQKABp+AUrtAMpKFEkLxAChQg
+eFEiKZaHLOAJEbAyzVGkgPhQxAEniSSL+bPZzBZMz1DIp2hAmg7VYBadLjvEyrq7
+9gQFaEIDQoID/Z8sIHTZ6sdfz/TcqgUwV/f2/W0hF7P5lzxXy8JWf4PXNx/ThA/2
+5yQN/NRgzzri0p1vrFC3p61Lqfli3c7fcue142/OGLvieqtvXfjAqXUPTybXpXsK
+n1qO1U9l8OMtzzc/axRTw2vTSnaY6lO6Il7L3Lb02+jsTi85THqu28SPY/ZEz63C
+NrZdz4uoOh5fGLv2waUjG96vXjb8dc9k3MQ/M8FaLNmQt/uXpB3L753KivLa0nXe
+mCu3U9/ZVHdyKHHy4M7vFv4YLdJOz4sDjki9r2bWEHm3stbmdZ68kxlV2/qy/lqb
+N3rlX+fyusx5zpCpWFqztffqudnD3ZG2C74N73pK6sJbTwTlxmYZWxfUJrL8YVi1
+8ZWUnvIfOlKGtgz2z9dl3vxw00A16Zj4N+lyqeur5O63blwMPjSW2jk4c2qwvObM
++O1p4+ZrHT2RY2vjvWW78PNzb9i+1+Rsb5r4rDhNPLiXbwcrsyJ0UWxHw9QLuY6+
+DPxSRtjIrY4zN3PST9QMaj0eqPVtfVi5K7048KMl0U8cmG5pHxltyE4WS8teT6gI
+xIw9l33u0+t/vFL6d/+9oNCx4OE/1z8JsTU/t8X8Hr/UPXSIqFrx6kiz9W7nM4mT
+vU8vBLbZfXGG0k8zmqp+vcGEzHzpeTH/WOHRxPnPt4yeqXyvJK5q9MDm/MmN9+d6
+d5v6tLYq12zj2Qp1v7mx5c5/ZkPGIg==
+=GsBm
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jim5779
+
+==================================================================
