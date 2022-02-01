@@ -16,7 +16,7 @@ author: Quién Sabe
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - "quoteserver"
+    - Quote Server: "quoteserver"
   Reference:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
