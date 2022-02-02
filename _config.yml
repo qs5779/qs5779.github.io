@@ -122,8 +122,7 @@ navbar-img: "/assets/img/ocean-banner.jpg"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
-page.footer-extra:
-  - wbquote.html
+footer-extra: wbquote.html
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
