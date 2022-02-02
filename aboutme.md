@@ -2,7 +2,6 @@
 layout: page
 title: About me
 subtitle: “Quién sabe de dolor, todo lo sabe.” -- Dante Alighieri
-footer-extra: wbquote.html
 ---
 
 ### My story
