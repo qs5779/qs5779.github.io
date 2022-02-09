@@ -18,7 +18,7 @@ I recall reading a lot of detective books, mostly by Earl Stanley Gardner as A.A
 I also read a lot western novels. I can't recall the author's name but in everyone of his
 books he use the Spanish phrase, &ldquo;&iquest;Quién sabe?&rdquo;, followed by the translation,
 &ldquo;Who knows?&rdquo; I have searched several times trying to find that author's identity,
-but this far I have not been successfull. Please contact me if you think you know his (or her) identity.
+but this far I have not been successfull. Please [contact me](https://wtfforms.metaorg.com/contact) if you think you know his (or her) identity.
 
 As a young man fresh from high school I was very imature. Eleven years very successful years
 serving in the United States Navy prepared me for a successful professional life.

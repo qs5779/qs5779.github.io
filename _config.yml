@@ -15,6 +15,7 @@ author: Quién Sabe
 
 navbar-links:
   About Me: "aboutme"
+  Contact Me: "https://wtfforms.metaorg.com/contact"
   Projects:
     - Quote Server: "quoteserver"
   Reference:
